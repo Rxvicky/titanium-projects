@@ -31,16 +31,23 @@ img{
 
 /* about us design */
 
-.about-img{
-    background-image:url("./images/about\ us\ img2.jpg");
-    background-repeat: no-repeat;
-    height:500px;
-    width: 100%;
-    background-size: cover;
-}
 .about-content{
+    position: absolute;
+    right: 0;
     background-color: white;
 }
+.about-para{
+    font-size:20px;
+}
+.about-span{
+    font-size: 30px;
+    font-weight: 700;
+    color: #30639c;
+}
+
+
+/* project design */
+
 .project-row{
     gap:1.5rem
 }
