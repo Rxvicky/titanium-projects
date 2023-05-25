@@ -29,6 +29,24 @@ img{
 }
 
 
+/* about us design */
+
+.about-img{
+    background-image:url("./images/about\ us\ img2.jpg");
+    background-repeat: no-repeat;
+    height:500px;
+    width: 100%;
+    background-size: cover;
+}
+.about-content{
+    background-color: white;
+}
+.project-row{
+    gap:1.5rem
+}
+.card3-adding{
+    margin-top:5rem;
+}
 
 
 
@@ -48,6 +66,7 @@ img{
     .home-img{
         max-width: 350px;
     }
+   
     
     }
 
